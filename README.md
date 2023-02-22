@@ -5,7 +5,7 @@
 ### 1. 流程
 
 1. 請自行建立 **React** 專案
-2. 這裡有一個基礎 [Figma](https://www.figma.com/file/4aAUNkjFEd8q5RF1zbzCrI/HyRead?node-id=0%3A1&t=bQdnfIBB6eyN68zn-1) 設計稿 👋
+2. 這裡有一個基礎 [Figma](https://www.figma.com/file/4aAUNkjFEd8q5RF1zbzCrI/HyRead?node-id=0%3A1&t=2qMg4HD6gHF30KLC-0) 設計稿 👋
 3. 請您盡可能的建立一個**好的架構 (如果是 Redux 更好）**、**乾淨的代碼** ✨
 4. **實作服務請求**👇拿到『使用者書單』資料 📕
 5. 必須要有可以**收藏**與**取消收藏** ❤️
