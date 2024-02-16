@@ -17,9 +17,12 @@
 <br>
 
 > **額外加分**
-> 1. 整合 **RxJS** 加分 👍
-> 2. 整合 **Redux-observable** 加分 👍
-> 2. 盡可能地將 **您會的技術實作出來** 加分 👍
+> 1. 使用 **Functional Programming 來實作** 加分 👍
+> 2. 整合 **RxJS** 加分 👍
+> 3. 整合 **Redux-observable** 加分 👍
+> 4. 整合 **Webpack** 加分 👍
+> 5. 整合 **CSS in JS Tool or SASS** 加分 👍
+> 6. 盡可能地將 **您會的技術實作出來** 加分 👍
 
 <br>
 
